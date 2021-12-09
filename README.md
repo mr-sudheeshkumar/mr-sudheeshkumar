@@ -1,15 +1,24 @@
-- 👋 Hi, I’m @mr-sudheeshkumar
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+<p align="center"><a href="https://github.com/mr-sudheeshkumar/mr-sudheeshkumar/"><img src="https://github.com/mr-sudheeshkumar/mr-sudheeshkumar/blob/main/data/shapeshifter.gif" alt="Shape-shifter" height="120"/></a></p>
+
+
+
+### - 👋 Hi, I’m SUDHEESHKUMAR SURENDRAN.
+### - 🤖 I’m interested in Artificial Intelligence, Full Stack Development and Data Analysis.
+### - 🎓 I’m currently pursuing Masters in Computer Application.
+### - 🔒 I also like exploring Cyber security.
+
+
+
+
+<br><br><br>
 ### 📫 Reach me at 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) Mail me](https://mail.google.com/mail/?view=cm&fs=1&to=sudhikumar8055@gmail.com)
+
+<a href = "https://mail.google.com/mail/?view=cm&fs=1&to=sudhikumar8055@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href = "http://www.linkedin.com/in/sudheeshkumar-44b772194/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href = "https://www.instagram.com/mr.sudhish/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) LinkedIn](http://www.linkedin.com/in/sudheeshkumar-44b772194/)
-
-
-![visitors](https://img.shields.io/badge/Profile%20Visitors-172B4D?style=for-the-badge&logo=Opsgenie&logoColor=white)<p  align="left" >
+<!--- ![visitors](https://img.shields.io/badge/Profile%20Visitors-172B4D?style=for-the-badge&logo=Opsgenie&logoColor=white)<p  align="left" > --->
 <img src="https://visitor-badge.laobi.icu/badge?page_id=mr-sudheeshkumar" alt="visitor badge"/>       
 </p>
 

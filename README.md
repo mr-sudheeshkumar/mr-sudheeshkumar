@@ -7,10 +7,13 @@
 ### - 🎓 I’m currently pursuing Masters in Computer Application.
 ### - 🔒 I also like exploring Cyber security.
 
+<br><br>
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mr-sudheeshkumar&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-sudheeshkumar&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 
 
-<br><br><br>
+<br><br>
 ### 📫 Reach me at 
 
 <a href = "https://mail.google.com/mail/?view=cm&fs=1&to=sudhikumar8055@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>

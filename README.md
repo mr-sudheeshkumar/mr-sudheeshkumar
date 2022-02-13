@@ -17,7 +17,7 @@
 ### 📫 Reach me at 
 
 <a href = "https://mail.google.com/mail/?view=cm&fs=1&to=sudhikumar8055@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href = "http://www.linkedin.com/in/sudheeshkumar-44b772194/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href = "http://www.linkedin.com/in/mr-sudheeshkumar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href = "https://www.instagram.com/mr.sudhish/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 

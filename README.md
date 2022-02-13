@@ -4,7 +4,7 @@
 
 ### - 👋 Hi, I’m SUDHEESHKUMAR SURENDRAN.
 ### - 🤖 I’m interested in Artificial Intelligence, Full Stack Development and Data Analysis.
-### - 🎓 I’m currently pursuing Masters in Computer Application.
+### - 🎓 I’m currently working as a Software Developer Intern at BBD.
 ### - 🔒 I also like exploring Cyber security.
 
 <br><br>
